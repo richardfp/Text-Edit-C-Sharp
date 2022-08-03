@@ -1,0 +1,16 @@
+C:\Baltinha\TextEdit\TextEdit\bin\Debug\net5.0\TextEdit.exe
+C:\Baltinha\TextEdit\TextEdit\bin\Debug\net5.0\TextEdit.deps.json
+C:\Baltinha\TextEdit\TextEdit\bin\Debug\net5.0\TextEdit.runtimeconfig.json
+C:\Baltinha\TextEdit\TextEdit\bin\Debug\net5.0\TextEdit.runtimeconfig.dev.json
+C:\Baltinha\TextEdit\TextEdit\bin\Debug\net5.0\TextEdit.dll
+C:\Baltinha\TextEdit\TextEdit\bin\Debug\net5.0\TextEdit.pdb
+C:\Baltinha\TextEdit\TextEdit\obj\Debug\net5.0\TextEdit.csproj.AssemblyReference.cache
+C:\Baltinha\TextEdit\TextEdit\obj\Debug\net5.0\TextEdit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Baltinha\TextEdit\TextEdit\obj\Debug\net5.0\TextEdit.AssemblyInfoInputs.cache
+C:\Baltinha\TextEdit\TextEdit\obj\Debug\net5.0\TextEdit.AssemblyInfo.cs
+C:\Baltinha\TextEdit\TextEdit\obj\Debug\net5.0\TextEdit.csproj.CoreCompileInputs.cache
+C:\Baltinha\TextEdit\TextEdit\obj\Debug\net5.0\TextEdit.dll
+C:\Baltinha\TextEdit\TextEdit\obj\Debug\net5.0\refint\TextEdit.dll
+C:\Baltinha\TextEdit\TextEdit\obj\Debug\net5.0\TextEdit.pdb
+C:\Baltinha\TextEdit\TextEdit\obj\Debug\net5.0\TextEdit.genruntimeconfig.cache
+C:\Baltinha\TextEdit\TextEdit\obj\Debug\net5.0\ref\TextEdit.dll
